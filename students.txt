@@ -1,0 +1,78 @@
+ugr/7/14 1 1 1 img/ASTU.png
+ugr/8/14 1 1 1 img/ASTU.png
+ugr/9/14 1 1 1 img/ASTU.png
+ugr/10/14 1 1 1 img/ASTU.png
+ugr/11/14 1 1 1
+ugr/12/14 1 1 1
+ugr/13/14 1 1 1
+ugr/14/14 1 1 1
+ugr/15/14 1 1 1
+ugr/16/14 1 1 1
+ugr/17/14 1 1 1
+ugr/18/14 1 1 1
+ugr/19/14 1 1 1
+ugr/20/14 1 1 1
+ugr/21/14 1 1 1
+ugr/22/14 1 1 1
+ugr/23/14 1 1 1
+ugr/24/14 1 1 1
+ugr/25/14 1 1 1
+ugr/26/14 1 1 1
+ugr/27/14 1 1 1
+ugr/28/14 1 1 1
+ugr/29/14 1 1 1
+ugr/30/14 1 1 1
+ugr/31/14 1 1 1
+ugr/32/14 1 1 1
+ugr/33/14 1 1 1
+ugr/34/14 1 1 1
+ugr/35/14 1 1 1
+ugr/36/14 1 1 1
+ugr/37/14 1 1 1
+ugr/38/14 1 1 1
+ugr/39/14 1 1 1
+ugr/40/14 1 1 1
+ugr/41/14 1 1 1
+ugr/42/14 1 1 1
+ugr/43/14 1 1 1
+ugr/44/14 1 1 1
+ugr/45/14 1 1 1
+ugr/46/14 1 1 1
+ugr/47/14 1 1 1
+ugr/48/14 1 1 1
+ugr/49/14 1 1 1
+ugr/50/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/1/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/0/14 1 1 1
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/3/14 1 1 1 img/ASTU.png
+ugr/2/14 1 1 1 img/ASTU.png
+ugr/5/14 1 1 1 img/ugr_2_14.jpg
+ugr/6/14 1 1 1 img/ugr_6_14.jpg
